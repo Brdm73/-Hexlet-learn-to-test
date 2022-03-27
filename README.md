@@ -1,2 +1,2 @@
-# -Hexlet-learn-to-test
+# Hexlet-learn-to-test
 Hexlet auto test edu
